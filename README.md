@@ -20,4 +20,7 @@ modularize development.
 speech data -> Google API (speech to text) -> text data -> 
 Text to Command Module -> Bluetooth -> speaker
 
+## Design Concept (totally accurate):
+![ELSA.jpg](ELSA.jpg)
+
 
